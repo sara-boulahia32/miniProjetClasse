@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\hp\codes\chellanges\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1725737079 source:c:\users\hp\codes\chellanges\work1.c
+	<stdio.h>
+	<stdlib.h>
+
+1725737065 source:c:\users\hp\codes\chellanges\work2.c
+	<stdio.h>
+	<stdlib.h>
+
